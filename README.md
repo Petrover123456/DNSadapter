@@ -9,7 +9,7 @@ DNS-Adapter is a training-free dynamic neuro-symbolic framework for vocabulary-f
 DNS-Adapter first maps query images to anonymous candidate logits through generic ImageNet/WordNet anchors and a closed-form support-set mapping. For high-entropy predictions, it builds a local knowledge context, prompts an LLM to compare only the top visual candidates, applies trie-style candidate rectification, and fuses the symbolic residual back into the visual logits.
 
 <p align="center">
-  <img src="figures/dns_adapter_overview.jpg" alt="DNS-Adapter overview" width="720">
+  <img src="DNS-Adapter-main/DNS-Adapter-main/figures/dns_adapter_overview.jpg" alt="DNS-Adapter overview" width="720">
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ DNS-Adapter first maps query images to anonymous candidate logits through generi
 </p>
 
 <p align="center">
-  <img src="figures/dns_adapter_case_study.jpg" alt="Case study" width="720">
+  <img src="DNS-Adapter-main/DNS-Adapter-main/figures/dns_adapter_case_study.jpg" alt="Case study" width="720">
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ DNS-Adapter first maps query images to anonymous candidate logits through generi
 </p>
 
 <p align="center">
-  <img src="figures/dns_adapter_symbolic_reasoning.jpg" alt="Symbolic reasoning" width="720">
+  <img src="DNS-Adapter-main/DNS-Adapter-main/figures/dns_adapter_symbolic_reasoning.jpg" alt="Symbolic reasoning" width="720">
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ DNS-Adapter first maps query images to anonymous candidate logits through generi
 </p>
 
 <p align="center">
-  <img src="figures/dns_adapter_trie.jpg" alt="Trie rectification" width="720">
+  <img src="DNS-Adapter-main/DNS-Adapter-main/figures/dns_adapter_trie.jpg" alt="Trie rectification" width="720">
 </p>
 
 <p align="center">
